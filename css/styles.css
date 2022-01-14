@@ -1,0 +1,33 @@
+body {
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  height: 0;
+  width: 5%;
+}
+h1{
+  color: #11324D;
+}
+h3{
+  color: #709FB0;
+  background-color: #CDF0EA;
+}
+.top-section{
+background-color: #79B4B7;
+}
+
+.favourite_movies{
+background-color: #CDF0EA;
+}
+
+.hobbies{
+background-color: #CDF0EA;
+}
+
+.contact_me{
+background-color: #CDF0EA;
+}
